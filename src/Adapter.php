@@ -20,7 +20,7 @@ class Adapter extends \Zend\Db\Adapter\Adapter
     }
 
     /**
-     * @return Sql 
+     * @return Sql
      */
     public function getSql()
     {
